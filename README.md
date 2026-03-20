@@ -26,7 +26,7 @@
 developer = {
     "name"       : "Shivay Awasthi",
     "role"       : "Full Stack Developer (in progress)",
-    "focus"      : ["AI/ML", "Cybersecurity", "Web Development"],
+    "focus"      : ["AI/ML", "Cybersecurity", "Web Development","Data Analytics"],
     "current"    : "Building an Auction Platform (Hackathon Project)",
     "learning"   : ["Django", "Flask", "React", "PostgreSQL"],
     "goal"       : "Become a Full Stack Developer solving real-world problems",
