@@ -1,11 +1,12 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shivay%20Awasthi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%7C%20Cybersecurity&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shivay%20Awasthi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%7C%20Cybersecurity%20%7C%20Data%20Analytics&descAlignY=58&descSize=18&animation=fadeIn" />
+
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DF9FF&center=true&vCenter=true&width=600&lines=Building+real-world+solutions+%F0%9F%9A%80;AI+%2B+Cybersecurity+enthusiast+%F0%9F%94%90;Full+Stack+Developer+in+progress+%F0%9F%92%BB;Open+for+Hackathons+%26+Collabs+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DF9FF&center=true&vCenter=true&width=700&lines=Building+real-world+solutions+%F0%9F%9A%80;Data+Analytics+enthusiast+%F0%9F%93%8A;AI+%2B+Cybersecurity+enthusiast+%F0%9F%94%90;Full+Stack+Developer+in+progress+%F0%9F%92%BB;Turning+data+into+insights+%F0%9F%93%88;Open+for+Hackathons+%26+Collabs+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
 <br/>
