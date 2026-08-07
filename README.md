@@ -35,7 +35,7 @@ developer = {
 | 🎯 Problem     | Manual bank record-keeping is slow and error-prone                    |
 | 💡 Solution    | Java Swing desktop app backed by MySQL for accounts, login & signup   |
 | ⚙️ Tech Stack | Java · Swing · JDBC · MySQL · Eclipse                                 |
-| 🌐 Status      | 🔧 In Progress                                                        |
+| 🌐 Status      | ✅ Functional                                                          |
 
 [![View Project](https://img.shields.io/badge/View%20Project-Banking%20Management%20System-blueviolet?style=for-the-badge&logo=github)](https://github.com/SHIVAY1510/Banking-Management-System)
 
@@ -81,7 +81,7 @@ developer = {
 | 🎯 Problem     | Manual bill generation is tedious and inconsistent               |
 | 💡 Solution    | Java OOP application to calculate, generate, and track bills     |
 | ⚙️ Tech Stack | Java · OOP                                                       |
-| 🌐 Status      | ✅ Functional                                                    |
+| 🌐 Status      | 🔧 In Progress                                                   |
 
 [![View Project](https://img.shields.io/badge/View%20Project-Electricity%20Bill%20Management-blueviolet?style=for-the-badge&logo=github)](https://github.com/SHIVAY1510/Electricity-Bill-Management-System)
 
@@ -161,7 +161,7 @@ developer = {
 ## 🎯 Next Up
 
 ```
-🎯 Ship live demos of the Banking Management System & Auction Platform
+🎯 Ship a live demo of the Auction Platform
 🎯 Contribute to open source
 🎯 Land an internship in AI/ML or Full Stack Dev
 🎯 Win a hackathon
