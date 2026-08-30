@@ -26,6 +26,21 @@ developer = {
 
 ## 🚀 Featured Projects
 
+### 🧭 AI Risk Manager
+
+> **Platform for assessing, monitoring, and managing AI system risk & compliance**
+
+| Detail        | Info                                                                 |
+| ------------- | --------------------------------------------------------------------- |
+| 🎯 Problem     | Teams lack visibility into AI system risk across regulatory frameworks |
+| 💡 Solution    | Dashboard mapping AI systems to risk tiers, compliance frameworks (EU AI Act, NIST AI RMF, ISO/IEC 42001), and audit status |
+| ⚙️ Tech Stack | React 19 · Vite · Tailwind CSS · Recharts · React Router · Axios      |
+| 🌐 Status      | 🔧 In Progress                                                        |
+
+[![View Project](https://img.shields.io/badge/View%20Project-AI%20Risk%20Manager-blueviolet?style=for-the-badge&logo=github)](https://github.com/SHIVAY1510/AI-Risk-Manager)
+
+---
+
 ### 🏦 Banking Management System
 
 > **Desktop banking app with secure login, account management, and transactions**
@@ -45,7 +60,7 @@ developer = {
 
 > **AI-powered analytics dashboard for social media content**
 
-| Detail        | Info                                                                  |
+| Detail        | Info                                                                      |
 | ------------- | ------------------------------------------------------------------------ |
 | 🎯 Problem     | Creators lack quick, actionable insight into their content performance |
 | 💡 Solution    | React.js dashboard with a Flask backend proxying multiple LLM APIs     |
@@ -61,7 +76,7 @@ developer = {
 > **Keeping users safe from malicious websites using Machine Learning**
 
 | Detail        | Info                                                                              |
-| ------------- | --------------------------------------------------------------------------------- |
+| ------------- | ----------------------------------------------------------------------------------- |
 | 🎯 Problem     | Phishing websites steal millions of users' credentials every year                 |
 | 🤖 Solution    | ML model that analyzes URLs & site features to predict phishing risk in real-time |
 | ⚙️ Tech Stack | Python · Flask · Scikit-learn · PostgreSQL · HTML/CSS                             |
@@ -76,8 +91,8 @@ developer = {
 
 > **OOP-based billing system for calculating and managing electricity usage**
 
-| Detail        | Info                                                          |
-| ------------- | ---------------------------------------------------------------- |
+| Detail        | Info                                                              |
+| ------------- | --------------------------------------------------------------------- |
 | 🎯 Problem     | Manual bill generation is tedious and inconsistent               |
 | 💡 Solution    | Java OOP application to calculate, generate, and track bills     |
 | ⚙️ Tech Stack | Java · OOP                                                       |
@@ -92,7 +107,7 @@ developer = {
 > **Real-time bidding system with smart suggestions**
 
 | Detail        | Info                                                                |
-| ------------- | ------------------------------------------------------------------- |
+| ------------- | ---------------------------------------------------------------------- |
 | 🎯 Problem     | No transparent, smart, real-time auction platform for small sellers |
 | ⚡ Features    | Real-time bidding · Admin & Bidder panels · Smart bid suggestions   |
 | 🔒 Security    | Secure authentication · Role-based access                           |
